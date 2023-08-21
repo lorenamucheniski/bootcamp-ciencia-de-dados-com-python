@@ -21,3 +21,7 @@ Bootcamp Santander - Ciência de Dados utilizando a linguagem python.
 9. Aprendendo a utilizar dicionários em Python
 10. Dominando funções Python
 11. Explorando IA generativa em um pepiline de ETL com Python
+12. 
+
+<h1 align="center">Introdução a Ciência de Dados :game_die:</h1>
+<h2 align="center">Trabalhando com listas em Pyhton</h2>
