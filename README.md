@@ -25,3 +25,4 @@ Bootcamp Santander - Ciência de Dados utilizando a linguagem python.
 
 <h1 align="center">Introdução a Ciência de Dados :game_die:</h1>
 <h2 align="center">Trabalhando com listas em Pyhton</h2>
+A lista em Python é uma sequência que pode armazenar qualquer tipo de objeto. Esses objetos podem ser do tipo inteiro, float, pode-se colocar uma lista dentro de outra.
