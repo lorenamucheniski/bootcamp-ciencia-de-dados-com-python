@@ -21,3 +21,7 @@ Bootcamp Santander - Ciência de Dados utilizando a linguagem python.
 9. Aprendendo a utilizar dicionários em Python
 10. Dominando funções Python
 11. Explorando IA generativa em um pepiline de ETL com Python
+
+<h1 align="center">Introdução a Ciência de Dados :game_die:</h1>
+<h2 align="center">Trabalhando com listas em Pyhton</h2>
+A lista em Python é uma sequência que pode armazenar qualquer tipo de objeto. Esses objetos podem ser do tipo inteiro, float e também pode-se colocar uma lista dentro de outra. Para criar uma lista pode-se usar o contrutor list, a função range ou colocar os valores separados por vírgulas dentro de colchetes. Além disso as listas são objetos mutáveis, então podemos alterar seus valores após a criação.
