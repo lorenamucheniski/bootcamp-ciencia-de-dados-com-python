@@ -22,10 +22,13 @@ Bootcamp Santander - Ciência de Dados utilizando a linguagem python.
 10. Dominando funções Python
 11. Explorando IA generativa em um pepiline de ETL com Python
 
-<h1 align="center">2. Introdução a Ciência de Dados :game_die:</h1>
-<h2 align="center">6. Trabalhando com listas em Pyhton</h2>
+<h2 align="center">1. Prepare-se Para a Jornada :trophy:</h2>
+<h3 align="center">1. Organizando seus estudos com Roadmaps DIO e Notion</h3>
 
-<h3 align="center"><strong>Criando Listas</strong></h3>
+<h2 align="center">2. Introdução a Ciência de Dados :game_die:</h2>
+<h3 align="center">6. Trabalhando com listas em Pyhton</h3>
+
+<h4 align="center"><strong>Criando Listas</strong></h4>
 
 Uma lista em Python nada mais é do que uma lista comum. Por exemplo, quando você faz uma lista de compras, isso é uma lista, e no Python é a mesma coisa! Podemos listar todas as informações dentro de uma única variável e depois utilizar essas informações dentro do nosso código.
 Para criar listas no Python é necessário:
