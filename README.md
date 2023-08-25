@@ -22,8 +22,23 @@ Bootcamp Santander - Ciência de Dados utilizando a linguagem python.
 10. Dominando funções Python
 11. Explorando IA generativa em um pepiline de ETL com Python
 
+### 3. Resolvendo Seus Primeiros Desafios de Código
+1. Aperfeiçoe a sua lógica e pensamento computacional 
+
 <h2 align="center">1. Prepare-se Para a Jornada :trophy:</h2>
 <h3 align="center">1. Organizando seus estudos com Roadmaps DIO e Notion</h3>
+O Roadmap é uma estratégia para projetos. Como o nome já dá a entender, funciona como um mapa rodoviário: ele se volta para a indicação de qual é o ponto de partida e o de chegada.
+
+Portanto, quando falamos em roadmap de projetos estamos nos referindo a um mapa que demonstra todos os passos necessários desde a concepção da ideia até a concretização dele. Com isso, oferece aos envolvidos informações completas e o trajeto entre o início do projeto e sua conclusão.
+
+Existem vários pontos importantes nessa estratégia, para assim facilitar a conquista de seu objetivo. Os principais dele são:
+- Conhecer seu projeto;
+- Esclarecer o projeto a todos os envolvidos;
+- Prever eventuais problemas;
+- Facilitar a revisão do projeto;
+- Alcançar melhores resultados;
+
+
 
 <h2 align="center">2. Introdução a Ciência de Dados :game_die:</h2>
 <h3 align="center">6. Trabalhando com listas em Pyhton</h3>
