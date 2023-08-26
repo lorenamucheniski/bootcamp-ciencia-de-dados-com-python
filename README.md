@@ -38,6 +38,14 @@ Existem vários pontos importantes nessa estratégia, para assim facilitar a con
 - Facilitar a revisão do projeto;
 - Alcançar melhores resultados;
 
+Para também ajudar na organização e distribuição de tarefas podemos utilizar o Notion. Ele é excelente para equipes cujos componentes não trabalham todos no mesmo lugar e para home office, se destacando especialmente porque permite que haja o acesso a documentos, agenda e lembretes em um só lugar. Além disso, mais de um colaborador pode ter acesso às páginas, adicionar comentários ou alterações, assim como somar ao trabalho.
+
+Dentre algumas ações que pode se fazer com o Notion estão:
+- Fazer uma lista de tarefas;
+- Compartilhar páginas;
+- Integrar o Notion ao Google Drive;
+- Ativar lembretes;
+- Fazer o controle do tempo das atividades;
 
 
 <h2 align="center">2. Introdução a Ciência de Dados :game_die:</h2>
