@@ -12,3 +12,4 @@ print(numeros)
 
 carro = ["Ferrari", "F8", 420000 , 2023, "São Paulo", True]
 print(carro)
+
