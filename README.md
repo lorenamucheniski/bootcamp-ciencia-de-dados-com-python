@@ -23,7 +23,14 @@ Bootcamp Santander - Ciência de Dados utilizando a linguagem python.
 11. Explorando IA generativa em um pepiline de ETL com Python
 
 ### 3. Resolvendo Seus Primeiros Desafios de Código
-1. Aperfeiçoe a sua lógica e pensamento computacional 
+1. Aperfeiçoe a sua lógica e pensamento computacional
+2. Equilibrando saldo
+3. Organizando seus ativos
+4. Condicionalmente rico
+5. Juros compostos
+6. O grande depósito
+
+### 4. Primeiros Passos em SQL e NoSQL
 
 <h2 align="center">1. Prepare-se Para a Jornada :trophy:</h2>
 <h3 align="center">1. Organizando seus estudos com Roadmaps DIO e Notion</h3>
