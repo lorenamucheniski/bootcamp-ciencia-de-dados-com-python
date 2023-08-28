@@ -61,7 +61,6 @@ Dentre algumas ações que pode se fazer com o Notion estão:
 
 
 
-<h2 align="center">2. Introdução a Ciência de Dados :game_die:</h2>
 <h3 align="center">6. Trabalhando com listas em Pyhton</h3>
 
 <h4 align="center"><strong>Criando Listas</strong></h4>
