@@ -54,14 +54,14 @@ Dentre algumas ações que pode se fazer com o Notion estão:
 - Integrar o Notion ao Google Drive;
 - Ativar lembretes;
 - Fazer o controle do tempo das atividades;
-
+__________
 <h3 align="center"> Versionamento de código com Git e GitHub</h3>
 
 
 
 
-
-<h3 align="center">6. Trabalhando com listas em Pyhton</h3>
+__________
+<h3 align="center">Trabalhando com listas em Pyhton</h3>
 
 <h4 align="center"><strong>Criando Listas</strong></h4>
 
