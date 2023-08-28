@@ -3,37 +3,38 @@ Bootcamp Santander - Ciência de Dados utilizando a linguagem python.
 
 <h1 align="center">Conteúdos :books:</h1> 
 
-### 1. Prepare-se para a jornada:
+###  Prepare-se para a jornada:
 1. Organizando seus estudos com Roadmaps DIO e Notion
 2. Versionamento de código com Git e GitHUb
 3. Desafios de projeto: crie um portifólio vencedor
 4. Contribuindo em um projeto Open Source no Git
 
-### 2. Introdução a Ciência de Dados e Python
-1. Ambiente de desenvolvimento e primeiros passos com Python
-2. Conhecendo a linguagem de programação Python
-3. Tipos de operadores com Python
-4. Estruturas condicionais e de repetição em Python
-5. Manipulando strings com Python
-6. Trabalhando com listas em Python
-7. Conhecendo tuplas em Python
-8. Explorando conjuntos em Python
-9. Aprendendo a utilizar dicionários em Python
-10. Dominando funções Python
-11. Explorando IA generativa em um pepiline de ETL com Python
+### Introdução a Ciência de Dados e Python
+5. Ambiente de desenvolvimento e primeiros passos com Python
+6. Conhecendo a linguagem de programação Python
+7. Tipos de operadores com Python
+8. Estruturas condicionais e de repetição em Python
+9. Manipulando strings com Python
+10. Trabalhando com listas em Python
+11. Conhecendo tuplas em Python
+12. Explorando conjuntos em Python
+13. Aprendendo a utilizar dicionários em Python
+14. Dominando funções Python
+15. Explorando IA generativa em um pepiline de ETL com Python
 
-### 3. Resolvendo Seus Primeiros Desafios de Código
-1. Aperfeiçoe a sua lógica e pensamento computacional
-2. Equilibrando saldo
-3. Organizando seus ativos
-4. Condicionalmente rico
-5. Juros compostos
-6. O grande depósito
+### Resolvendo Seus Primeiros Desafios de Código
+16. Aperfeiçoe a sua lógica e pensamento computacional
+17. Equilibrando saldo
+18. Organizando seus ativos
+19. Condicionalmente rico
+20. Juros compostos
+21. O grande depósito
 
-### 4. Primeiros Passos em SQL e NoSQL
+### Primeiros Passos em SQL e NoSQL
 
-<h2 align="center">1. Prepare-se Para a Jornada :trophy:</h2>
-<h3 align="center">1. Organizando seus estudos com Roadmaps DIO e Notion</h3>
+
+_______
+<h3 align="center"> Organizando seus estudos com Roadmaps DIO e Notion</h3>
 O Roadmap é uma estratégia para projetos. Como o nome já dá a entender, funciona como um mapa rodoviário: ele se volta para a indicação de qual é o ponto de partida e o de chegada.
 
 Portanto, quando falamos em roadmap de projetos estamos nos referindo a um mapa que demonstra todos os passos necessários desde a concepção da ideia até a concretização dele. Com isso, oferece aos envolvidos informações completas e o trajeto entre o início do projeto e sua conclusão.
@@ -53,6 +54,11 @@ Dentre algumas ações que pode se fazer com o Notion estão:
 - Integrar o Notion ao Google Drive;
 - Ativar lembretes;
 - Fazer o controle do tempo das atividades;
+
+<h3 align="center"> Versionamento de código com Git e GitHub</h3>
+
+
+
 
 
 <h2 align="center">2. Introdução a Ciência de Dados :game_die:</h2>
