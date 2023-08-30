@@ -34,7 +34,7 @@ Bootcamp Santander - Ciência de Dados utilizando a linguagem python.
 
 
 _______
-<h3 align="center"> Organizando seus estudos com Roadmaps DIO e Notion</h3>
+<h3 align="center"> Organizando seus estudos com Roadmaps DIO e Notion :notebook_with_decorative_cover:</h3>
 O Roadmap é uma estratégia para projetos. Como o nome já dá a entender, funciona como um mapa rodoviário: ele se volta para a indicação de qual é o ponto de partida e o de chegada.
 
 Portanto, quando falamos em roadmap de projetos estamos nos referindo a um mapa que demonstra todos os passos necessários desde a concepção da ideia até a concretização dele. Com isso, oferece aos envolvidos informações completas e o trajeto entre o início do projeto e sua conclusão.
