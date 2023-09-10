@@ -26,4 +26,4 @@ valor_final = (valor_inicial*((1 + taxa_juros)**periodo))
 
 #TODO: Iterar, baseado no período em anos, para calculo do valorFinal com os juros.
 
-print(f'Valor final do investimento: R$,{valor_final:.2f}')
+print(f'Valor final do investimento: R$ {valor_final:.2f}')
